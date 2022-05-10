@@ -1,0 +1,12 @@
+open edge
+open chrome
+new tab
+open outlook
+jarvis
+close
+exit application
+what's the weather
+open active directory
+test
+open gmail
+close tab
